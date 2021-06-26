@@ -1,0 +1,53 @@
+h1 {
+    margin-left: 420px;
+}
+.podzagaloBke {
+              margin-left: 400px;
+}
+body {
+    background-color:  lightblue
+}
+header {
+        background-color:  lightgreen;
+}
+table {
+      margin-left: 185px;
+}
+main {
+     background-color: khaki;
+}
+.perehodz {
+           margin-left: 430px;
+}
+h2 {
+    margin-left: 360px;
+}
+footer {
+       background-color:  lightpink;
+}
+p {
+   margin-left: 265px;
+}
+.racpecanee {
+             margin-left: 400px;
+}
+.cvaz {
+       margin-left: 330px;
+}
+.incta {
+        width: 100px;
+        height: 100px;
+        margin-left: 150px;
+} 
+.televon {
+          margin-left: 310px;
+} 
+.poctavke {
+           margin-left: 400px;
+} 
+.promeshytke {
+              border-collapse: collapse;
+}     
+a {
+   text-decoration: none;
+}      
