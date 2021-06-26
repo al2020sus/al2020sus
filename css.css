@@ -1,0 +1,38 @@
+
+h1 {
+  
+margin-left: 400px;
+}
+h2 {
+margin-left: 300px;
+}
+header {
+        background-color:  lightgreen;
+}
+body {
+      background-color:  lightblue
+}
+p {
+margin-left: 150px;
+}
+img {
+    width: 237px;
+    height: 185px;
+}
+
+
+main {
+      background-color: khaki
+}
+footer {
+        background-color: lightpink
+}
+.incta {
+        width: 100px;
+        height: 100px;
+        margin-left: 150px;
+}
+.perehodz {
+           margin-left: 460px;
+}
+                  
