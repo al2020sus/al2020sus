@@ -1,0 +1,110 @@
+<html>
+    <body>
+      <header>
+      <h1>О нас</h1>
+      <h2 class="podzagaloBke">Ekzo World</h2>
+      </header>
+     <a class="perehodz" href="https://learn.algoritmika.org/lesson?lesson=6187&level=6&task=21851">Главная</a>
+    <main>
+        <h2 class="racpecanee">Расписание</h2>
+    <table class="promeshytke" style="border: 4px solid lightpink">
+           <tr>
+               <td></td>
+               <td>Понедельник</td>
+               <td>Вторник</td>
+               <td>Среда</td>
+               <td>Четверг</td>
+               <td>Пятница</td>
+               <td>Суббота</td>
+               <td>Воскрисенье</td>
+           </tr>
+           <tr>
+               <td>открытие</td>
+               <td>11:00</td>
+               <td>11:00</td>
+               <td>11:30</td>
+               <td>10:30</td>
+               <td>11:40</td>
+               <td>10:40</td>
+               <td>10:00</td>
+           </tr>
+           <tr>
+               <td>перерыв с</td>
+               <td>12:00</td>
+               <td>12:00</td>
+               <td>12:30</td>
+               <td>11:30</td>
+               <td>12:40</td>
+               <td>11:40</td>
+               <td>11:00</td>
+           </tr>
+           <tr>
+               <td>перерыв до</td>
+               <td>12:30</td>
+               <td>12:30</td>
+               <td>13:00</td>
+               <td>12:00</td>
+               <td>13:10</td>
+               <td>12:10</td>
+               <td>11:30</td>
+           </tr>
+           <tr>
+               <td>перерыв с</td>
+               <td>15:00</td>
+               <td>15:00</td>
+               <td>15:30</td>
+               <td>14:30</td>
+               <td>15:40</td>
+               <td>14:40</td>
+               <td>14:00</td>
+           </tr>
+           <tr>
+               <td>перерыв до</td>
+               <td>15:30</td>
+               <td>15:30</td>
+               <td>16:00</td>
+               <td>15:00</td>
+               <td>16:10</td>
+               <td>15:10</td>
+               <td>14:30</td>
+           </tr>
+           <tr>
+               <td>закрытие</td>
+               <td>20:00</td>
+               <td>20:00</td>
+               <td>20:30</td>
+               <td>20:00</td>
+               <td>20:30</td>
+               <td>20:00</td>
+               <td>20:00</td>
+           </tr>
+
+    </table>
+    </main>
+            <h2 class="poctavke">Поставки</h2>
+            <p> 1. Понедельник : поставка террариумных товаров. </p>
+            <p> 2. Среда : поставка замороженых кормов.</p>
+            <p> 3. Субота : поставка живых кормовых насекомых </p>
+    <a class="perehodz" href="https://learn.algoritmika.org/lesson?lesson=6187&level=8&task=21851">Важное</a>
+    <footer>
+            <h2>Наши преимушества!!!</h2>
+            <p>* Работаем по выходным и праздникам.(искл с 1-3 января)</p>
+            <p>* Большинство животных и насекомых нашего разведения. </p>
+            <p>* Подробная припродажная консультация специалистов. </p>
+            <p>* Доброжелательные продавцы наших магазинов. </p>
+    </footer>
+    <h2>Как с нами связаться</h2>
+    <p class="cvaz">1. Вы можете связаться с нами через соцсети.</p>
+    <a href="https://youla.ru/krasnodar"><p class="cvaz">2. Найти нас в интернет магазинах.</p></a>
+    <p class="cvaz">3. Связаться с нами по телефону .</p> 
+    <p>==============================================</p>
+      <p class="televon">890965743212|||||89163452178|||||89285567894</p> 
+    <p>==============================================</p>
+    <a href="https://www.instagram.com/exzo_world_zoomagazin/"><img class="incta" src="https://static.tildacdn.com/tild6165-3637-4632-b336-643932363132/image.png"></a>
+      <a href="https://vk.com/exzo_world"><img class="incta" src="https://static.tildacdn.com/tild3731-3236-4364-b266-336436626566/photo.png"></a>
+      <a href="https://www.tiktok.com/@exzoworld1?lang=ru-RU"><img class="incta" src="https://yt3.ggpht.com/ytc/AAUvwnjkM2rmBoGnmkznf2ArwB3T31x3fsrTpv2vlcoa=s900-c-k-c0x00ffffff-no-rj"></a>
+      <details>Вся эта информация не достоверна и сделана в развлекатильных целях
+               <summary>!!!</summary>
+      </details>  
+    </body>
+</html>
